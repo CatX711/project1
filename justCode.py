@@ -995,6 +995,6 @@ print("Welcome to justCode.")
 
 
 
-
+# you should totally go watch this video: https://www.youtube.com/watch?v=p7YXXieghto
 # pycharm asked for a newline at the end of the program. it sure got one
 
